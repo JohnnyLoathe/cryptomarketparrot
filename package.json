@@ -19,7 +19,7 @@
     "react-tradingview-widget": "^1.3.2",
     "styled-components": "^5.1.1"
   },
-  "homepage": "https://ibourn.github.io/cryptomarketparrot",
+  "homepage": "https://JohnnyLoathe.github.io/cryptomarketparrot",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
